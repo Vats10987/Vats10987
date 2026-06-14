@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Vatsal Gandhi 👋</h1>
 
+<h3 align="center">🎓 M.S. in Computer Science @ New York Institute of Technology (GPA 3.95)</h3>
+
 <p align="center">
-  🎓 M.S. in Computer Science @ <b>New York Institute of Technology</b> (GPA 3.95) <br>
   🤖 AI / Machine Learning & Data Science — Computer Vision, Deep Learning, Big Data <br>
   🔬 Researching multimodal AI for real-time ICU mortality prediction (IET book chapter, 2026)
 </p>
