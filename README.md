@@ -14,6 +14,9 @@
   <a href="mailto:gandhivatsal76@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://portfolioweb-et4edxi8.manus.space/">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -96,6 +99,7 @@ Descriptive analytics and reporting for 20+ designers across 15+ SQL tables. Roo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vats-gandhi/">LinkedIn</a> ·
+  <a href="https://portfolioweb-et4edxi8.manus.space/">Portfolio</a> ·
   <a href="mailto:gandhivatsal76@gmail.com">Email</a>
 </p>
 
